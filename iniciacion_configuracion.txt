@@ -1,0 +1,14 @@
+primeramente se debe correr
+vagrant up
+
+para conectarse via ssh
+vagrant ssh
+
+crear un virtual para el entorno de django en el virtual para que se sincronice con la maquina local
+python -m venv ~/env
+
+para activar el virtual
+source ~/env/bin/activate
+
+para deshactivar
+deactivate
