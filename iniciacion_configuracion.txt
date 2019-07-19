@@ -12,3 +12,15 @@ source ~/env/bin/activate
 
 para deshactivar
 deactivate
+
+crear un proyecto de django
+django-admin.py startproject profiles_proyect .
+
+crear el proyecto
+python manage.py startapp profiles_api
+
+una ves creado hay que agregar en prorfiles_proyect en settings
+
+'rest_framework',
+  'rest_framework.authtoken',
+  'profiles_api'
