@@ -22,5 +22,13 @@ python manage.py startapp profiles_api
 una ves creado hay que agregar en prorfiles_proyect en settings
 
 'rest_framework',
-  'rest_framework.authtoken',
-  'profiles_api'
+'rest_framework.authtoken',
+'profiles_api'
+
+
+una ves creado el model del Usert hay que crear la base inicial.
+se ejecuta al inicio del proyecto y cada ves que hay alguna modificación
+python manage.py makemigrations
+
+luego se ejecuta la migración
+python manage.py migrate
