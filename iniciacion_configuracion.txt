@@ -7,6 +7,16 @@ vagrant ssh
 crear un virtual para el entorno de django en el virtual para que se sincronice con la maquina local
 python -m venv ~/env
 
+ashfkasdjhfk[]}{}
+
+
+aasdfas
+asdfasdf
+asdfasdf
+
+
+
+vagrant reload
 para activar el virtual
 source ~/env/bin/activate
 
@@ -32,3 +42,6 @@ python manage.py makemigrations
 
 luego se ejecuta la migración
 python manage.py migrate
+
+usuario: hatsem78@gmail.com
+passw: octavio79
