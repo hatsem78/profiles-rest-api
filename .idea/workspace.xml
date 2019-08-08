@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85d6c610-29ca-4e7a-96a8-a66ea60a4bb1" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/90c50fbc-82ee-4d3e-86e4-5c8b51d448fd.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/90c50fbc-82ee-4d3e-86e4-5c8b51d448fd/storage_v2/_src_/schema/main.uQUzAA.meta" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/profiles_api/migrations/0002_profilefeeditem.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change beforePath="$PROJECT_DIR$/profiles_api/admin.py" afterPath="$PROJECT_DIR$/profiles_api/admin.py" />
-      <change beforePath="$PROJECT_DIR$/profiles_api/models.py" afterPath="$PROJECT_DIR$/profiles_api/models.py" />
-      <change beforePath="$PROJECT_DIR$/profiles_api/permissions.py" afterPath="$PROJECT_DIR$/profiles_api/permissions.py" />
-      <change beforePath="$PROJECT_DIR$/profiles_api/serializers.py" afterPath="$PROJECT_DIR$/profiles_api/serializers.py" />
-      <change beforePath="$PROJECT_DIR$/profiles_api/urls.py" afterPath="$PROJECT_DIR$/profiles_api/urls.py" />
-      <change beforePath="$PROJECT_DIR$/profiles_api/views.py" afterPath="$PROJECT_DIR$/profiles_api/views.py" />
-      <change beforePath="$PROJECT_DIR$/profiles_proyect/settings.py" afterPath="$PROJECT_DIR$/profiles_proyect/settings.py" />
-      <change beforePath="$PROJECT_DIR$/ubuntu-bionic-18.04-cloudimg-console.log" afterPath="$PROJECT_DIR$/ubuntu-bionic-18.04-cloudimg-console.log" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -62,7 +48,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/profiles_api/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="110">
@@ -71,6 +57,16 @@
                 <element signature="e#606#1923#0" expanded="false" />
                 <element signature="e#1968#3395#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -126,6 +122,7 @@
         <option value="$PROJECT_DIR$/profiles_api/serializers.py" />
         <option value="$PROJECT_DIR$/profiles_api/permissions.py" />
         <option value="$PROJECT_DIR$/profiles_api/views.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
       </list>
     </option>
   </component>
@@ -278,17 +275,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/profiles_api/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="75" column="8" lean-forward="false" selection-start-line="75" selection-start-column="8" selection-end-line="75" selection-end-column="8" />
-          <folding>
-            <element signature="e#606#1923#0" expanded="false" />
-            <element signature="e#1968#3395#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/iniciacion_configuracion.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -726,6 +712,14 @@
             <element signature="e#606#1923#0" expanded="false" />
             <element signature="e#1968#3395#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
